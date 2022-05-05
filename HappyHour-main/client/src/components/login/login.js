@@ -34,7 +34,8 @@ const Login = ( { updateUser } ) => {
 	return (
 
 		<div className="login">
-			<h2> Welcome to Happy Hour</h2>
+			
+			<img src="assets/img/logo.PNG" class="logo" alt="" />
 			<hr></hr><br></br>
 			<h2>Login</h2>
 			<input type="text" name="email" value={ user.email } onChange={ handleChange } placeholder="Enter your Email"></input>

@@ -41,6 +41,8 @@ const Register = () => {
 	return (
 		<div className="register">
 			{ console.log( "User", user ) }
+			<h2> Welcome to </h2>
+			<img src="assets/img/logo.PNG" class="logo" alt="" />
 			<h1>Register</h1>
 			<input type="text" name="name" value={ user.name } placeholder="Your Name" onChange={ handleChange }></input>
 			<input type="text" name="email" value={ user.email } placeholder="Your Email" onChange={ handleChange }></input>
