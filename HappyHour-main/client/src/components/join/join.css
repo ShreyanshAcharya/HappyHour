@@ -1,0 +1,51 @@
+body {
+    position: relative;
+    background: #c0bfbf81;
+    font-family: 'roboto', sans-serif;
+   
+  }
+
+  .shows{
+    background: url("F:\projects\HappyHour-main\HappyHour-main\HappyHour-main\client\public\assets\img\join.jpeg");
+    background-repeat:no-repeat;
+    background-position: center;
+    opacity:0.92;
+    color:white;
+    
+  
+    margin: 10% 32%;
+    width: 40%;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+      background-color: white;
+     
+  }
+  .show1{
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    
+    color:white;
+    margin: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    width: 97%;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+
+.button-join{
+    background: #0077C0;
+    border: 1px solid #1d2129;
+    font-size: 1.25rem;
+    padding: 0.15rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    width: 20%;
+    color:white;
+  }
