@@ -199,15 +199,16 @@ const Homepage = ({updateUser}) => {
 			{/* <!-- filters --> */ }
 			<div class="filters">
 				<button class="filter-options active">all</button>
-				<button class="filter-options">Zakir Khan</button>
-				<button class="filter-options">Anubhav Singh Bassi</button>
-				<button class="filter-options">Kannan Gill</button>
-				<button class="filter-options">Kenny Sebastian</button>
-				<button class="filter-options">Kapil Sharma</button>
-				<button class="filter-options">Louis C.K.</button>
-				<button class="filter-options">Vir Das</button>
-				<button class="filter-options">Rohan Joshi</button>
-				<button class="filter-options">Tanmay Bhat</button>
+				
+				<a class="filter-options" href="https://www.youtube.com/c/ZakirKhan/videos">Zakir Khan</a>
+				<a class="filter-options" href="https://www.youtube.com/c/AnubhavSinghBassi/videos">Anubhav Singh Bassi</a>
+				<a class="filter-options" href="https://www.youtube.com/user/knngill/videos">Kannan Gill</a>
+				<a class="filter-options" href="https://www.youtube.com/c/KennySebastian/videos">Kenny Sebastian</a>
+				<a class="filter-options" href="https://www.youtube.com/c/LouisCKonYouTube/videos">Louis C.K.</a>
+				<a class="filter-options" href="https://www.youtube.com/virdas/videos">Vir Das</a>
+				<a class="filter-options" href="https://www.youtube.com/channel/UCW24Wt4EgHpuktSW6XAnt2g/videos">Rohan Joshi</a>
+				<a class="filter-options" href="https://www.youtube.com/c/TanmayBhatYouTube/videos">Tanmay Bhat</a>
+				
 				<button class="filter-options">Gaurav Kapoor</button>
 			</div>
 

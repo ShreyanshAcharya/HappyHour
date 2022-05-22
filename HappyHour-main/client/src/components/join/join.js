@@ -10,7 +10,7 @@ function Join () {
 				<h4>Name: Demo Show</h4>
 				<p>
 					<h5> Venue: Online </h5>
-					May 5 2022	Friday	1:30pm
+					May 12 2022	Thursday	1:30pm
 				</p>
 				<div class="join-button">
 					<button class="button-join" onClick={

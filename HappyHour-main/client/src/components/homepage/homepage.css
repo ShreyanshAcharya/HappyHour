@@ -209,6 +209,7 @@ body {
   color: #242424;
   font-size: 15px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .filter-options:hover {
